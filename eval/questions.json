@@ -1,0 +1,502 @@
+[
+  {
+    "question": "What consolidated revenue did Infosys report for fiscal 2026, and how much did it grow year over year?",
+    "reference": "₹1,78,650 crore, up 9.6%.",
+    "source_dept": "finance"
+  },
+  {
+    "question": "What was Infosys’ consolidated revenue growth in constant currency terms in fiscal 2026?",
+    "reference": "3.1%.",
+    "source_dept": "finance"
+  },
+  {
+    "question": "What were the five pillars of Project Maximus in fiscal 2026?",
+    "reference": "Value-based selling; Efficient pyramid; Lean, automation and gen AI; Improving key portfolios; Optimization of indirect costs.",
+    "source_dept": "finance"
+  },
+  {
+    "question": "How much did consolidated employee benefit expenses amount to in fiscal 2026, and what share of revenue did they represent?",
+    "reference": "₹95,094 crore, or 53.2% of revenue.",
+    "source_dept": "finance"
+  },
+  {
+    "question": "Which business segment recorded the highest revenue growth in fiscal 2026, and what was the growth rate?",
+    "reference": "Manufacturing, at 15.4%.",
+    "source_dept": "finance"
+  },
+  {
+    "question": "What was the consolidated revenue of the Financial Services segment in fiscal 2026?",
+    "reference": "₹49,908 crore.",
+    "source_dept": "finance"
+  },
+  {
+    "question": "What was Infosys’ consolidated current ratio in fiscal 2026, compared with fiscal 2025?",
+    "reference": "2.0 times in 2026, versus 2.3 times in 2025.",
+    "source_dept": "finance"
+  },
+  {
+    "question": "What were the consolidated Days Sales Outstanding figures for fiscal 2026 and 2025?",
+    "reference": "67 days in 2026 and 69 days in 2025.",
+    "source_dept": "finance"
+  },
+  {
+    "question": "What was Infosys’ consolidated return on net worth in fiscal 2026, and what was it in 2025?",
+    "reference": "31.2% in 2026, versus 29.0% in 2025.",
+    "source_dept": "finance"
+  },
+  {
+    "question": "How many shares were bought back during fiscal 2026, and what was the associated cash outflow before transaction costs?",
+    "reference": "10,00,00,000 shares; ₹18,000 crore cash outflow.",
+    "source_dept": "finance"
+  },
+  {
+    "question": "What amount did Infosys recognize in the consolidated Statement of Profit and Loss for the impact of the Labour Codes in fiscal 2026?",
+    "reference": "₹1,289 crore.",
+    "source_dept": "finance"
+  },
+  {
+    "question": "What was the consolidated effective tax rate in fiscal 2026, and what was the main reason given for its decline?",
+    "reference": "26.3%; mainly the reversal of a tax provision following orders giving effect received in fiscal 2026 for prior assessment years.",
+    "source_dept": "finance"
+  },
+  {
+    "question": "What were Infosys’ consolidated cash and investments at March 31, 2026?",
+    "reference": "₹43,075 crore.",
+    "source_dept": "finance"
+  },
+  {
+    "question": "Under the Capital Allocation Policy, what proportion of free cash flow does Infosys expect to return cumulatively over five years, and what proportion was actually returned for fiscals 2025 and 2026?",
+    "reference": "Approximately 85% is the five-year policy target; approximately 82.1% was returned for fiscals 2025 and 2026.",
+    "source_dept": "finance"
+  },
+  {
+    "question": "How many employees did Infosys have globally according to the Human Capital section?",
+    "reference": "3,28,594 employees.",
+    "source_dept": "hr"
+  },
+  {
+    "question": "How many nationalities were represented in Infosys’ workforce?",
+    "reference": "155 nationalities.",
+    "source_dept": "hr"
+  },
+  {
+    "question": "What percentage of Infosys employees were AI-aware?",
+    "reference": "84%.",
+    "source_dept": "hr"
+  },
+  {
+    "question": "What employee satisfaction score did Infosys report for fiscal 2026?",
+    "reference": "79%.",
+    "source_dept": "hr"
+  },
+  {
+    "question": "What percentage of the workforce were women in fiscal 2026?",
+    "reference": "39.5%.",
+    "source_dept": "hr"
+  },
+  {
+    "question": "What female-representation target has Infosys set for 2030?",
+    "reference": "45% of the workforce.",
+    "source_dept": "hr"
+  },
+  {
+    "question": "How does the Human Capital section define Infosys’ Employee Value Proposition?",
+    "reference": "It is the unique set of experiences, rewards, benefits and fulfillment employees receive for their commitment and skills.",
+    "source_dept": "hr"
+  },
+  {
+    "question": "Which standard is the Occupational Health and Safety Management System aligned with?",
+    "reference": "ISO 45001.",
+    "source_dept": "hr"
+  },
+  {
+    "question": "What are the four pillars of the HALE wellness framework?",
+    "reference": "Physical, Emotional, Social and Digital Well-being, with Safety embedded as a core component.",
+    "source_dept": "hr"
+  },
+  {
+    "question": "How broad is the InStep global internship network in terms of partner institutions and countries?",
+    "reference": "220+ partner institutions in over 50 countries.",
+    "source_dept": "hr"
+  },
+  {
+    "question": "How many times in a row has InStep been ranked the World’s #1 Internship Program by Vault Firsthand?",
+    "reference": "Five times in a row.",
+    "source_dept": "hr"
+  },
+  {
+    "question": "How many service touchpoints does the InfyMe platform integrate into a single interface?",
+    "reference": "Over 200 service touchpoints.",
+    "source_dept": "hr"
+  },
+  {
+    "question": "What types of employee data can the NAVI-powered Data Assist tool query?",
+    "reference": "Leave, Attendance, Allocation, Assets, Confirmation, Master data, and related data.",
+    "source_dept": "hr"
+  },
+  {
+    "question": "What does the NAVI-powered Policy Advisor do?",
+    "reference": "It interprets policy documents and personalizes responses to employee queries.",
+    "source_dept": "hr"
+  },
+  {
+    "question": "What share of renewables did Infosys report for its India operations?",
+    "reference": "81.8%.",
+    "source_dept": "esg"
+  },
+  {
+    "question": "For how many consecutive years had Infosys remained carbon neutral?",
+    "reference": "Seven years in a row.",
+    "source_dept": "esg"
+  },
+  {
+    "question": "How many rural families had benefited through Infosys’ carbon offset programs?",
+    "reference": "More than 3,00,000 rural families.",
+    "source_dept": "esg"
+  },
+  {
+    "question": "Approximately how many saplings had Infosys planted through its agroforestry program?",
+    "reference": "Around 14 million saplings.",
+    "source_dept": "esg"
+  },
+  {
+    "question": "What percentage of wastewater across Infosys campuses is recycled?",
+    "reference": "100%.",
+    "source_dept": "esg"
+  },
+  {
+    "question": "What percentage of Infosys office space is certified to the highest green building standards?",
+    "reference": "84%.",
+    "source_dept": "esg"
+  },
+  {
+    "question": "How much solar photovoltaic capacity had Infosys installed?",
+    "reference": "62.42 MWp.",
+    "source_dept": "esg"
+  },
+  {
+    "question": "What approach is Infosys taking with high-emission IT hardware suppliers to support supply-chain decarbonization?",
+    "reference": "It is using onsite assessments and senior-level dialogues, while supporting suppliers with Scope 1, 2 and 3 emissions measurement, robust baselines and verified Environmental Product Declarations.",
+    "source_dept": "esg"
+  },
+  {
+    "question": "How many local jobs had Infosys’ carbon offset and regeneration initiatives created?",
+    "reference": "More than 4,800 local jobs.",
+    "source_dept": "esg"
+  },
+  {
+    "question": "How did cumulative storage capacity change through Infosys’ lake rejuvenation efforts?",
+    "reference": "It increased from 6 billion liters to 10.3 billion liters, adding 4.3 billion liters.",
+    "source_dept": "esg"
+  },
+  {
+    "question": "How many Infosys India campuses had achieved TRUE Zero Waste certification?",
+    "reference": "11 campuses.",
+    "source_dept": "esg"
+  },
+  {
+    "question": "What is the ASSURE initiative’s target for climate-resilient, energy-efficient buildings by 2030?",
+    "reference": "100 million sq. ft.",
+    "source_dept": "esg"
+  },
+  {
+    "question": "How many people had Infosys reached through digital skilling initiatives?",
+    "reference": "More than 15 million people.",
+    "source_dept": "esg"
+  },
+  {
+    "question": "What did the latest annual client survey report about high satisfaction and account response coverage?",
+    "reference": "91% of clients reported high satisfaction scores, with responses from 86% of accounts.",
+    "source_dept": "esg"
+  },
+  {
+    "question": "How many lines of defense are part of Infosys’ integrated risk management approach?",
+    "reference": "Three lines of defense.",
+    "source_dept": "risk"
+  },
+  {
+    "question": "How many layers are included in the risk governance structure shown in the ERM framework?",
+    "reference": "Eight layers.",
+    "source_dept": "risk"
+  },
+  {
+    "question": "When was the periodic ERM maturity assessment conducted by an independent external agency?",
+    "reference": "March 2024.",
+    "source_dept": "risk"
+  },
+  {
+    "question": "What range of risk levels is covered by Infosys’ single hierarchical risk repository?",
+    "reference": "L1 to L5, from strategic to tactical risks.",
+    "source_dept": "risk"
+  },
+  {
+    "question": "What is RISC360, and what technology platform supports it?",
+    "reference": "RISC360 is Infosys’ Governance, Risk Management and Compliance program combining the three lines of defense; iGRC provides a consolidated view of risks to strategic goals.",
+    "source_dept": "risk"
+  },
+  {
+    "question": "Which broad risk areas did the Risk Office assess, monitor and report on during fiscal 2026?",
+    "reference": "Geopolitical scenarios, economic uncertainty, inflation, AI/technology disruption and innovation, talent availability, cybersecurity, data protection and privacy, ESG, contractual liabilities, and the evolving regulatory environment.",
+    "source_dept": "risk"
+  },
+  {
+    "question": "How does Infosys seek to reduce concentration risk from geopolitical, macroeconomic or health events?",
+    "reference": "Through broad-based growth across regions, clients and industries, alongside monitoring scenarios and implementing additional controls for operational agility.",
+    "source_dept": "risk"
+  },
+  {
+    "question": "What could happen to Infosys if it cannot transform existing services with AI or scale new AI-first offerings?",
+    "reference": "Win rates could fall, market share could decline, and revenue and profits could decrease.",
+    "source_dept": "risk"
+  },
+  {
+    "question": "What customer behavior creates the Global Capability Centers risk identified by Infosys?",
+    "reference": "Customers may insource services or establish or expand GCCs, reducing Infosys’ addressable market share.",
+    "source_dept": "risk"
+  },
+  {
+    "question": "What measures does Infosys cite for addressing technology disruption and innovation risk?",
+    "reference": "An executive-led innovation council, R&D investments, employee reskilling, large-deal innovation investments, and alliances or partnerships with emerging technology firms.",
+    "source_dept": "risk"
+  },
+  {
+    "question": "What workforce size did Infosys report as of March 31, 2026 in discussing talent supply constraints?",
+    "reference": "3,28,594 employees globally.",
+    "source_dept": "risk"
+  },
+  {
+    "question": "Which international standards are cited for the Cyber Risk Assessment Framework?",
+    "reference": "ISO 31000, ISO 27001, and ISO 27005.",
+    "source_dept": "risk"
+  },
+  {
+    "question": "What is the stated business consequence of failing to protect stakeholders’ personal and sensitive information?",
+    "reference": "It may impact operations or result in significant regulatory penalties.",
+    "source_dept": "risk"
+  },
+  {
+    "question": "What governance mechanism does Infosys use to oversee risks to its ESG 2030 ambitions?",
+    "reference": "Dedicated owners for each ambition, Board-level oversight through the ESG Committee, periodic risk assessments, alignment with strategy, and regulatory monitoring.",
+    "source_dept": "risk"
+  },
+  {
+    "question": "How does Infosys classify its services in the technology strategy section?",
+    "reference": "As AI First Services and AI Augmented Services.",
+    "source_dept": "tech"
+  },
+  {
+    "question": "What are Infosys Cobalt, Topaz and Aster designed to provide?",
+    "reference": "Cobalt accelerates enterprise cloud journeys; Topaz is an AI-first suite using generative and agentic AI; Aster is an AI-amplified marketing suite.",
+    "source_dept": "tech"
+  },
+  {
+    "question": "What were the four strategic priorities Infosys adopted in 2018?",
+    "reference": "Scale Agile Digital; Energize the Core; Reskill our People; Expand Localization.",
+    "source_dept": "tech"
+  },
+  {
+    "question": "What does Infosys mean by its aspiration to “unlock AI value”?",
+    "reference": "It aims to deliver business outcomes in revenue growth, cost optimization and innovation.",
+    "source_dept": "tech"
+  },
+  {
+    "question": "What is the purpose of the two-pronged AI strategy?",
+    "reference": "AI First Services capture new demand to drive growth, while AI Augmented Services reinvent existing services to win higher wallet share.",
+    "source_dept": "tech"
+  },
+  {
+    "question": "How many industry-focused AI playbooks has Infosys developed?",
+    "reference": "Over 25.",
+    "source_dept": "tech"
+  },
+  {
+    "question": "What incremental AI-first services opportunity does Infosys cite for 2030?",
+    "reference": "USD 300–400 billion, based on market estimates.",
+    "source_dept": "tech"
+  },
+  {
+    "question": "What six value pools make up Infosys’ AI-first value framework?",
+    "reference": "AI Strategy & Engineering, Data for AI, Process AI, Agentic Legacy Modernization, Physical AI, and AI Trust.",
+    "source_dept": "tech"
+  },
+  {
+    "question": "Across how many categories does Infosys’ AI partnership ecosystem span, and how many partners does it include?",
+    "reference": "Seven categories and over 50 partners.",
+    "source_dept": "tech"
+  },
+  {
+    "question": "What are the headline figures for Client Living Labs, Applied Research Centers and patents in the Intellectual Capital section?",
+    "reference": "100+ Client Living Labs, 7 Applied Research Centers, and 973 patents granted or pending.",
+    "source_dept": "tech"
+  },
+  {
+    "question": "How many Be The Navigator ideas were submitted, completed, and still in progress?",
+    "reference": "12,435 submitted; 2,429 completed; 1,101 in progress.",
+    "source_dept": "tech"
+  },
+  {
+    "question": "How large is the Infosys Innovation Network startup ecosystem, and how many client impressions have those startups generated?",
+    "reference": "430+ startups and 1,300+ client impressions.",
+    "source_dept": "tech"
+  },
+  {
+    "question": "How many entrepreneurs has the Infosys Business Incubator engaged with, and how many ventures were selected for incubation from cohorts 1 and 2?",
+    "reference": "1,000+ entrepreneurs; five ventures from cohort 1 and three from cohort 2.",
+    "source_dept": "tech"
+  },
+  {
+    "question": "What does the Infosys AI-first value framework seek to help clients do beyond experimentation?",
+    "reference": "Responsibly scale AI as an integral part of enterprise systems through a structured and disciplined path to orchestrate data, technology and operations at scale.",
+    "source_dept": "tech"
+  },
+  {
+    "question": "How do the reported workforce size and consolidated employee benefit expense place Infosys’ people scale alongside its fiscal 2026 cost base?",
+    "reference": "Finance reports ₹95,094 crore of consolidated employee benefit expenses, while HR reports 3,28,594 employees globally.",
+    "source_dept": "finance+hr"
+  },
+  {
+    "question": "What revenue growth and workforce AI-readiness figures are reported for fiscal 2026?",
+    "reference": "Finance reports 9.6% consolidated revenue growth, while HR reports 84% of employees were AI-aware.",
+    "source_dept": "finance+hr"
+  },
+  {
+    "question": "What financial return metric and employee satisfaction score are reported for fiscal 2026?",
+    "reference": "Consolidated return on net worth was 31.2%, while the HR section reports a 79% employee satisfaction score.",
+    "source_dept": "finance+hr"
+  },
+  {
+    "question": "What fiscal 2026 revenue figure is reported alongside the female share of the workforce?",
+    "reference": "Consolidated revenue was ₹1,78,650 crore, while women represented 39.5% of the workforce.",
+    "source_dept": "finance+hr"
+  },
+  {
+    "question": "What financial liquidity figure is reported alongside the scale of Infosys’ global workforce?",
+    "reference": "Consolidated cash and investments were ₹43,075 crore, while the global workforce numbered 3,28,594 employees.",
+    "source_dept": "finance+hr"
+  },
+  {
+    "question": "What financial growth and renewable-energy figures are reported for fiscal 2026?",
+    "reference": "Consolidated revenue grew 9.6%, while renewable energy represented 81.8% of India operations.",
+    "source_dept": "finance+esg"
+  },
+  {
+    "question": "How does the company’s cash and investment position compare with its reported global carbon-neutral record?",
+    "reference": "Consolidated cash and investments were ₹43,075 crore, while Infosys had been carbon neutral for seven consecutive years.",
+    "source_dept": "finance+esg"
+  },
+  {
+    "question": "What shareholder-return policy is reported alongside the company’s environmental ambition?",
+    "reference": "Infosys expects to return approximately 85% of free cash flow cumulatively over five years; its ESG Vision 2030 Refresh aims for climate positivity by 2030.",
+    "source_dept": "finance+esg"
+  },
+  {
+    "question": "What consolidated operating margin and office-space green certification figures appear together in the annual report?",
+    "reference": "Consolidated operating margin was 20.3% in fiscal 2026, while 84% of office space was certified to the highest green building standards.",
+    "source_dept": "finance+esg"
+  },
+  {
+    "question": "What revenue growth and digital-skilling reach did Infosys report for fiscal 2026?",
+    "reference": "Consolidated revenue growth was 9.6%, and digital skilling initiatives had reached more than 15 million people.",
+    "source_dept": "finance+esg"
+  },
+  {
+    "question": "What revenue growth did Infosys report while identifying AI transformation as a key risk area?",
+    "reference": "Consolidated revenue grew 9.6%; the risk section states that failure to transform existing services with AI or scale AI-first offerings could reduce win rates, market share, revenue and profits.",
+    "source_dept": "finance+risk"
+  },
+  {
+    "question": "How does the company’s debt position relate to the risk framework described in the report?",
+    "reference": "Infosys reported no outstanding borrowings and a consolidated debt-equity ratio of 0.1 times, while its ERM framework is implemented across the organization by the Risk Management Office.",
+    "source_dept": "finance+risk"
+  },
+  {
+    "question": "What financial effect was attributed to the Labour Codes, and what type of risk governance does Infosys use?",
+    "reference": "The Labour Codes led to a ₹1,289 crore consolidated exceptional impact; risk management is embedded through an integrated ERM framework with three lines of defense.",
+    "source_dept": "finance+risk"
+  },
+  {
+    "question": "What was the consolidated cash and investments balance, and which key risk area includes cybersecurity controls designed to protect business continuity?",
+    "reference": "Cash and investments were ₹43,075 crore; cybersecurity risk is managed with controls including encryption, data backup and recovery mechanisms for business continuity.",
+    "source_dept": "finance+risk"
+  },
+  {
+    "question": "What fiscal 2026 segment revenue growth was reported for Manufacturing, and what risk mitigation approach addresses technology disruption?",
+    "reference": "Manufacturing revenue grew 15.4%; technology-disruption mitigation includes R&D, employee reskilling, an innovation council and partnerships with emerging technology firms.",
+    "source_dept": "finance+risk"
+  },
+  {
+    "question": "How do the workforce’s AI-awareness level and Infosys’ external digital-skilling reach compare?",
+    "reference": "84% of the workforce was AI-aware, while digital-skilling initiatives had reached more than 15 million people.",
+    "source_dept": "hr+esg"
+  },
+  {
+    "question": "What female workforce figure is reported alongside Infosys’ community focus on inclusive development and employability?",
+    "reference": "Women represented 39.5% of the workforce; the ESG section describes inclusive development and employability through skill training of communities.",
+    "source_dept": "hr+esg"
+  },
+  {
+    "question": "What employee well-being framework and community healthcare scale are reported in the two sections?",
+    "reference": "HR describes HALE with Physical, Emotional, Social and Digital Well-being plus Safety; ESG reports 1,74,659 beneficiaries for the Universal Cornea Care Mission in FY26.",
+    "source_dept": "hr+esg"
+  },
+  {
+    "question": "What employee workforce size and global CSR spending are reported for fiscal 2026?",
+    "reference": "Infosys had 3,28,594 employees globally, and global CSR spends were ₹666 crore.",
+    "source_dept": "hr+esg"
+  },
+  {
+    "question": "What HR employee-experience platform and ESG digital-skilling platform are described?",
+    "reference": "InfyMe integrates over 200 employee-service touchpoints, while Infosys Springboard is the flagship digital learning platform and has reached more than 15 million people.",
+    "source_dept": "hr+esg"
+  },
+  {
+    "question": "What internal workforce AI-readiness metric appears alongside Infosys’ industry-focused AI playbook count?",
+    "reference": "84% of employees were AI-aware, and Infosys had developed over 25 industry-focused AI playbooks.",
+    "source_dept": "hr+tech"
+  },
+  {
+    "question": "How does Infosys’ use of AI across the employee lifecycle relate to its broader two-pronged AI strategy?",
+    "reference": "HR integrates AI from recruitment through offboarding; the technology strategy uses AI First Services to capture new demand and AI Augmented Services to reinvent existing services.",
+    "source_dept": "hr+tech"
+  },
+  {
+    "question": "What employee workforce scale is reported alongside the size of Infosys’ AI partnership ecosystem?",
+    "reference": "Infosys had 3,28,594 employees globally, while its AI partnership ecosystem included over 50 partners across seven categories.",
+    "source_dept": "hr+tech"
+  },
+  {
+    "question": "What employee AI-awareness figure and AI-first services opportunity are reported together?",
+    "reference": "84% of employees were AI-aware, while Infosys cited an incremental AI-first services opportunity of USD 300–400 billion by 2030.",
+    "source_dept": "hr+tech"
+  },
+  {
+    "question": "What HR AI intervention for employee learning sits alongside Infosys’ AI-first value framework?",
+    "reference": "HR uses AI companions such as Zoiee and SynthAIz for intelligent tutoring, summarization and contextual learning support; the AI-first value framework defines six value pools for scaling AI value.",
+    "source_dept": "hr+tech"
+  },
+  {
+    "question": "What environmental infrastructure figures appear alongside Infosys’ AI-first technology strategy?",
+    "reference": "84% of office space was certified to the highest green building standards and 62.42 MWp of solar PV capacity had been installed; the technology strategy positions Infosys as a navigator for clients’ AI journeys.",
+    "source_dept": "esg+tech"
+  },
+  {
+    "question": "How do Infosys’ climate-restoration activities sit alongside its AI innovation ecosystem?",
+    "reference": "Around 14 million saplings had been planted through agroforestry, while the Infosys Innovation Network had 430+ startups generating 1,300+ client impressions.",
+    "source_dept": "esg+tech"
+  },
+  {
+    "question": "What community digital-skilling reach is reported alongside the AI-first value framework’s six strategic pillars?",
+    "reference": "Digital-skilling initiatives had reached more than 15 million people; the AI-first value framework has six pillars: Orchestrate, Insight, Transform, Modernize, Innovate and Assure.",
+    "source_dept": "esg+tech"
+  },
+  {
+    "question": "What building-sector initiative target is reported alongside Infosys’ AI platform ecosystem?",
+    "reference": "ASSURE targets 100 million sq. ft. by 2030; the AI partnership ecosystem spans seven categories and includes over 50 partners.",
+    "source_dept": "esg+tech"
+  },
+  {
+    "question": "How do Infosys’ environmental and intellectual-capital performance highlights combine in the report?",
+    "reference": "Infosys was carbon neutral for the seventh consecutive year and had 81.8% renewable energy in India operations; its Intellectual Capital section reports 973 patents granted or pending and 100+ Client Living Labs.",
+    "source_dept": "esg+tech"
+  }
+]
