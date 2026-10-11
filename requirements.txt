@@ -13,3 +13,6 @@ asyncpg
 pgvector
 pypdf
 python-dotenv
+
+huggingface-hub==0.36.2
+transformers==4.57.6
